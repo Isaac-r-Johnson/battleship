@@ -2,7 +2,7 @@
 The Battleship board game in Python (Console Version)
 
 To play, download main.py and run. (You will need to have python3 installed on your computer)
-Enjoy! :)
+Enjoy!
 
 Note:
 In the code there are two functions called "solve(m)" and "play(m)".
